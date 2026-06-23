@@ -1,0 +1,6 @@
+{
+  "name": "JobFlow Engine Pro",
+  "description": "Comprehensive job description analyzer converting JDs into business-grade Blueprint, Workflow, Lab, Hiring, and Readiness plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
